@@ -2,7 +2,7 @@
 
 export default {
   name: 'shivam yadav',
-  domain: 'sudoshivam.tech', // add without https:// , used in meta tags and share urls
+  domain: 'sudoshivam.me', // add without https:// , used in meta tags and share urls
   image: '/images/profile.png',
   email: 'sy76076@gmail.com',
   googleAnalyticsV4: {
@@ -11,7 +11,7 @@ export default {
   },
   plausibleAnalytics: {
     enabled: true,
-    domain: 'template.karngyan.com',
+    domain: 'sudoshivam.me',
     trackLocalhost: false,
     // leave it empty if plausible is not self hosted
     apiHost: 'https://analytics.lookatx.dev' // default: https://plausible.io
@@ -37,7 +37,7 @@ export default {
     enabled: true,
   },
   blog: {
-    enabled: false,
+    enabled: true,
   },
   resume: {
     enabled: false,
@@ -83,7 +83,7 @@ export default {
       download: 'download',
       nav: {
         home: 'home',
-        blog: 'blog',
+        blog: 'skills',
         projects: 'projects',
         uses: 'uses',
         resume: 'résumé',
@@ -92,23 +92,23 @@ export default {
         signOut: 'sign out'
       },
       hero: {
-        iBlogTech: 'i blog tech',
+        iBlogTech: 'my skills',
         haveALook: 'have a look',
         friendlyNeighborhood: 'your friendly neighborhood',
-        description: 'i am a web developer and a part time freelancer. i love scripting, graphic design and talking about tech in online communities.',
-        words: ['developer', 'designer', 'engineer', 'programmer', 'artist'],
+        description: 'i am a web developer and a part time freelancer. i create websites, apps and scripts. i spend my free time working on side projects and discussing about technology in internet forums',
+        words: ['developer', 'designer', 'engineer', 'programmer', 'encoder'],
       },
       githubCalendar: {
         header: 'contributions',
         subtext: 'github calendar heatmap'
       },
       blog: {
-        header: 'blog',
-        subtext: 'i try to write once in a while. let me know your thoughts in comments or mail me at sy76076@gmail.com'
+        header: 'skills',
+        subtext: 'i\'ve worked with multiple technologies as a developer. i have experience in graphic design, mod testing, and rom development. these are some of the technolgies that i know.'
       },
       recentBlog: {
-        header: 'recent blogs',
-        subtext: 'it takes a lot of time to write man'
+        header: 'skills',
+        subtext: 'i specialize in JavaScript and React but i\'m pretty comfortable with other echnologies as well!',
       },
       uses: {
         header: 'uses',
