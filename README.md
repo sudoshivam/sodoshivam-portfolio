@@ -1,25 +1,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://template.karngyan.com">
+  <a href="sudoshivam.in">
     <img src="static/favicon.ico" alt="Logo" width="80" height="80">
   </a>
-  <br/><br/>
-  <a href="https://template.karngyan.com">
-    <img src="https://api.netlify.com/api/v1/badges/88476203-8c04-4a61-9be3-cdc713690283/deploy-status" alt="Netlify Status">
-  </a>
 
-  <h3 align="center">template.karngyan.com</h3>
+  <h3 align="center">Website template is based on "karngyan.in"</h3>
 
   <p align="center">
     Dark themed, SEO friendly: Nuxt Content + TailwindCSS + Firebase + i18n based SPA for <strong>procrastinating</strong> developers to quickly spin up their own kickass blog and showcase their projects.
   </p>
 </p>
-
-
-[![Product Name Screen Shot][product-screenshot]](https://template.karngyan.com)
-
-Visit: [template.karngyan.com](https://template.karngyan.com) to see all feature enabled version of this template.
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -28,9 +19,6 @@ Visit: [template.karngyan.com](https://template.karngyan.com) to see all feature
     <li><a href="#instructions-to-make-it-your-own">Instructions to make it your own</a></li>
     <li><a href="#other-deployment-options">Other Deployment Options</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#awesome-forks-">Awesome Forks</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -116,29 +104,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-## Awesome Forks ![Awesome][awesome-badge]
-
-Raise a PR when your website's up to add you here. 
-> Find your alphabetical position, or raise a PR to automate this.
-
-
-* [Anamika Pandey](https://github.com/anamikapandey745) - [anamika.dev](https://anamika.dev)
-* [Claudio Canales](https://github.com/klaudioz) - [klaudioz.eth](https://klaudioz.eth.link/)
-* [Gyan Prakash Karn](https://github.com/gyankarn) - [karngyan.com](https://karngyan.com)
-* [Nenad Radovanovic](https://github.com/nesaplay) - [nenad.xyz](https://nenad.xyz)
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-<!-- CONTACT -->
-## Contact
-
-Karn - [@gyankarn](https://twitter.com/gyankarn) - mail@karngyan.com
 
 
 <!-- MARKDOWN LINKS & IMAGES -->

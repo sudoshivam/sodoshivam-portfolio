@@ -83,8 +83,8 @@ export default {
       download: 'download',
       nav: {
         home: 'home',
-        blog: 'skills',
-        projects: 'projects',
+        blog: 'blog and projects',
+        projects: 'skills',
         uses: 'uses',
         resume: 'résumé',
         buyMeACoffee: 'buy me a beer',
@@ -103,20 +103,20 @@ export default {
         subtext: 'github calendar heatmap'
       },
       blog: {
-        header: 'skills',
-        subtext: 'i\'ve worked with multiple technologies as a developer. i have experience in graphic design, mod testing, and rom development. these are some of the technolgies that i know.'
+        header: 'blog/projects',
+        subtext: 'this page lists some of my projects and blogs'
       },
       recentBlog: {
-        header: 'skills',
-        subtext: 'i specialize in JavaScript and React but i\'m pretty comfortable with other echnologies as well!',
+        header: 'blog and projects',
+        subtext: 'i create and i write',
       },
       uses: {
         header: 'uses',
         subtext: 'a quick summary of what I use on a daily basis to code and some codestats.net flex'
       },
       projects: {
-        header: 'projects',
-        subtext: 'this page lists some of my personal and work projects.'
+        header: 'skills',
+        subtext: 'i\'ve worked with multiple technologies as a developer. my work experience includes graphic design, rom development, and content writing as well. i specialize in JavaScript and React but i\'m pretty comfortable with other technologies as well!'
       }
     }
   }
