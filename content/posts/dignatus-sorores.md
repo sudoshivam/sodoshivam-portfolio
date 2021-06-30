@@ -3,7 +3,7 @@ id: 1
 title: Traderet altera id subitis coeunt in haut
 # image field is not mandatory
 # you can skip it to keep the size of blog cards small
-image: /images/web-development.png 
+# image: /images/web-development.png 
 createdAt: "2021-07-01 5:00:00"
 tags:
   - random
