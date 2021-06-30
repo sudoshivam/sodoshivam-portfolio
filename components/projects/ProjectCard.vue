@@ -8,14 +8,14 @@
                 {{ project.tech }}
               </p>
             </div>
-            <nuxt-link class="group" :to="localePath(`/projects/${project.slug}`)">
+            <div class="group">
               <h3 class="mt-0.5 group-hover:text-indigo-500 text-md leading-7 font-semibold text-gray-200">
                 {{ project.title }}
               </h3>
               <p class="text-xs text-gray-400">
                 {{ project.description }}
               </p>
-            </nuxt-link>
+            </div>
           </div>
           <div class="flex mt-2 space-x-2 flex-row">
             <a target="_blank" rel="noreferrer" :href="project.website" class="hover:text-indigo-500 text-gray-600">
