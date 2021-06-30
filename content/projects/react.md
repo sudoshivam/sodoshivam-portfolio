@@ -1,12 +1,12 @@
 ---
 id: 2
-title: covidhelp.page
-description: it helped match plasma and blood donors, i18n supported with 5 indian languages. also had a vaccine notifier built in
-tech: golang vue aws
-logo: /images/covidhelp-page.png
-website: https://covidhelp.page
-github: https://github.com/karngyan/covidhelp.ui
-twitter: gyankarn
+title: React
+description: react js is my framework of choice. with react you can go static and dynamic both.
+tech: 
+logo: /images/react.png
+website: 
+github: https://github.com/sudoshivam
+twitter: sudoshivam
 ---
 
 # Creten se ad guttur aquis oracula cineres

@@ -1,12 +1,12 @@
 ---
 id: 1
-title: get.interviewready.io
-description: a system design course website serving 5k+ users, content provided by youtuber gaurav sen. (freelance)
-tech: golang nuxt postgres aws
-logo: /images/interviewready-io.png
-website: https://get.interviewready.io
-github: https://github.com/InterviewReady
-twitter: gyankarn
+title: Web Development
+description: HTML, CSS, JS? you name it. i got it covered.
+tech: 
+logo: /images/web-development.png
+website: 
+github: https://github.com/sudoshivam
+twitter: sudoshivam
 ---
 
 # Sed etiam fuit oraque est
