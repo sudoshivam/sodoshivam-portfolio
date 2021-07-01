@@ -36,7 +36,7 @@
             </svg>
           </a>
         </div>
-        <p class="mt-8 text-sm leading-6 text-gray-400 md:mt-0 md:order-1">
+        <!-- <p class="mt-8 text-sm leading-6 text-gray-400 md:mt-0 md:order-1">
           {{ $config.name }} • website template at <span class="ceator-preview hover:text-hot-pink text-gray-300">
           <a class="hidden md:inline-block" rel="noreferrer" target="_blank" href="https://github.com/sudoshivam/sudoshivam-portfolio">
           <creator-preview
@@ -47,7 +47,7 @@
           </a>
           <a class="inline-block md:hidden" target="_blank" href="https://github.com/sudoshivam/sudoshivam-portfolio">{{ name }} </a>
           </span>
-        </p>
+        </p> -->
       </div>
     </div>
   </footer>
