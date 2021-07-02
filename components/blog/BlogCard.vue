@@ -21,9 +21,7 @@
         </div>
         <div class="mt-2 flex items-center">
           <div class="flex-shrink-0">
-            <a target="_blank" rel="noreferrer" :href="`https://twitter.com/${post.author.twitter}`">
               <UserAvatar class="h-9 w-9 rounded-full" :name="post.author.name" :photo-u-r-l="post.author.image"/>
-            </a>
           </div>
           <div class="ml-3">
             <p class="text-xs font-medium text-gray-200">
