@@ -21,7 +21,7 @@
         </div>
         <div class="mt-2 flex items-center">
           <div class="flex-shrink-0">
-            <UserAvatar class="h-9 w-9 rounded-full" :name="post.author.name" :photo-u-r-l="post.author.image"/>
+              <UserAvatar class="h-9 w-9 rounded-full" :name="post.author.name" :photo-u-r-l="post.author.image"/>
           </div>
           <div class="ml-3">
             <p class="text-xs font-medium text-gray-200">
