@@ -59,7 +59,7 @@ const nuxtConfig = {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: `home -- ${config.name}`,
+    title: `Home - ${config.name}`,
     htmlAttrs: {
       lang: 'en'
     },

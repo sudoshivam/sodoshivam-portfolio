@@ -64,7 +64,7 @@ export default {
     ]
   },
   loadingIndicator: {
-    name: 'folding-cube'
+    name: 'chasing-dots'
     // https://tobiasahlin.com/spinkit/
     // circle
     // cube-grid
