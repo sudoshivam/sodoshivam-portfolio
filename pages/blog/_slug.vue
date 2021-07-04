@@ -103,7 +103,7 @@ export default {
   },
   head() {
     return {
-      title: this.post.title + ` -- blog -- ${this.$config.name}`,
+      title: this.post.title + ` | project - ${this.$config.name}`,
       meta: [
         { hid: 'description', name: 'description', content: this.post.description },
         // Open Graph
